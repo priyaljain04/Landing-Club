@@ -4,9 +4,9 @@ The Lending Club project involves calculating a loan score based on three major 
 
 # Key Steps and Components
 ## 1. Data Cleaning and Transformation
-   Loan Payment History: Data includes historical payments, interest received, and late fees.
-   Customer’s Financial Health: Data includes customer employment details, income, home ownership, etc.
-   Loan Defaulters History: Data includes delinquencies, public records, bankruptcies, and enquiries.
+   1. Loan Payment History: Data includes historical payments, interest received, and late fees.
+   2. Customer’s Financial Health: Data includes customer employment details, income, home ownership, etc. 
+   3. Loan Defaulters History: Data includes delinquencies, public records, bankruptcies, and enquiries.
 
 ## 2. Created Processed Dataframes
 
