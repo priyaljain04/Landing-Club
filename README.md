@@ -13,3 +13,5 @@ The Lending Club project involves calculating a loan score based on three major 
 ## 3. Created permanent tables for multiple teams to access the cleaned data.
 
 ## 4. Created a view on the cleaned data that refreshes every 24 hours for up-to-date analysis.
+
+
