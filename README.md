@@ -17,6 +17,7 @@ The Lending Club project involves calculating a loan score based on three major 
 ## 4. Created a view on the cleaned data that refreshes every 24 hours for up-to-date analysis.
 
 ## 5.Loan Score Calculation
-   1.
+   1.Identified the Bad Data and Final Cleaning
+   2.Calculated Loan Score 
 
 
