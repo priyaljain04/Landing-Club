@@ -1,4 +1,4 @@
-# Landing-Club
+# Lending-Club
 
 The Lending Club project involves calculating a loan score based on three major factors: Loan Payment History, Customer’s Financial Health, and Loan Defaulters History. The project includes data cleaning, transformation, and storage processes using Apache PySpark, and the final cleaned data is used to create permanent tables for downstream analytics.
 
