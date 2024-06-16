@@ -31,9 +31,7 @@ Performed initial cleaning by removing unnecessary columns , renaming columns,cr
       2. Credit Score: Incorporated borrowers' credit scores to assess their financial health.
       3. Employment and Public Records: Evaluated the stability of employment and checked for any negative public records such as bankruptcies.
 
-   3. Combining Scores for Final Evaluation:
-
-      Created a final loan score by combining different metrics, such as payment history, credit score, and public records.
+   3. Combining Scores for Final Evaluation: Created a final loan score by combining different metrics, such as payment history, credit score, and public records.
       Implemented a weighting system where payment history had the highest weight (50%), followed by financial health indicators (30%), and employment/public records (20%).
    
 
