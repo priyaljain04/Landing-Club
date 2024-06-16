@@ -26,13 +26,12 @@ Performed initial cleaning by removing unnecessary columns , renaming columns,cr
    1.Identified the Bad Data and Final Cleaning - Identified the repeated customer id and removed the duplicate one's 
 
    2.Calculated Loan Score -  Built a comprehensive scoring system based on various factors:
-      1. Payment History: Analyzed the borrowers' payment patterns, including last payment amount and date.
-      
-      2. Credit Score: Incorporated borrowers' credit scores to assess their financial health.
-      
+   
+      1. Payment History: Analyzed the borrowers' payment patterns, including last payment amount and date. 
+      2. Credit Score: Incorporated borrowers' credit scores to assess their financial health.  
       3. Employment and Public Records: Evaluated the stability of employment and checked for any negative public records such as bankruptcies.
 
-  3. Combining Scores for Final Evaluation: Created a final loan score by combining different metrics, such as payment history, credit score, and public records.Implemented a weighting system where payment history had the highest weight (50%), followed by financial health indicators (30%), and employment/public records (20%).
+3. Combining Scores for Final Evaluation: Created a final loan score by combining different metrics, such as payment history, credit score, and public records.Implemented a weighting system where payment history had the highest weight (50%), followed by financial health indicators (30%), and employment/public records (20%).
    
 
 
