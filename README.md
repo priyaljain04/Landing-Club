@@ -14,7 +14,8 @@ Performed initial cleaning by removing unnecessary columns , renaming columns,cr
 
 
 ## 2. Created Processed Dataframes
-![image](https://github.com/priyaljain04/Landing-Club/assets/44484014/0549717c-913e-4e59-bbfe-0943068ab0d3)
+![image](https://github.com/priyaljain04/Lending-Club/assets/44484014/4b12ae84-675c-4cef-9358-ba592215e30a)
+
 
 
 ## 3. Created permanent tables for multiple teams to access the cleaned data.
